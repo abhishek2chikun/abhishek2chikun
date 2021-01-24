@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hello World 👋
+
+I'm **Abhishek Panograhi**, currently pursuing B.tech .
+
+### A Machine Learning and AI enthusiast .
+
+
+### [portfolio](https://abhishekpanigrahiportfolio.netlify.app/)
+
 
 <!--
 **abhishek2chikun/abhishek2chikun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
