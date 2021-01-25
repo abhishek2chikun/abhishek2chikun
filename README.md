@@ -1,6 +1,6 @@
 ## Hello World 👋
 
-I'm **Abhishek Panograhi**, currently pursuing B.tech .
+**I'm Abhishek Panigrahi, currently pursuing B.tech.**
 
 ### A Machine Learning and AI enthusiast .
 
