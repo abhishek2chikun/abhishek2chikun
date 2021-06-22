@@ -1,26 +1,34 @@
-## Hello World 👋
+## Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2><br>
+
 
 **I'm Abhishek Panigrahi,**
 
-### A Machine Learning and AI enthusiast .
+### A Machine Learning and AI enthusiast.
 
 
-### [portfolio](https://abhishekpanigrahiportfolio.netlify.app/)
+
+### 📈 Stats:
+
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=abhishek2chikun&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" /> 
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek2chikun&theme=tokyonight" />
+</p>
+
+<details><summary>Contribution Graph</summary>
+<p align="left">
+<img width="90%" src="https://activity-graph.herokuapp.com/graph?username=abhishek2chikun&theme=xcode" /></p>
+</details>
 
 
-<!--
-**abhishek2chikun/abhishek2chikun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details><summary>Trophies</summary>
+<p align="left">
+<img width=900 src="https://github-profile-trophy.vercel.app/?username=abhishek2chikun&column=7&theme=gruvbox&no-frame=true"/>
+</details>
+
+#### 🌐 You can reach me at: 
+
+<a href="https://www.linkedin.com/in/prathima-kadari/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>&nbsp;&nbsp; <a href="https://twitter.com/prathimak88"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></img></a>&nbsp;&nbsp;
 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![Abhishek github stats](https://github-readme-stats.vercel.app/api?username=abhishek2chikun)](https://github.com/anuraghazra/github-readme-stats)
+### [My portfolio](https://abhishekpanigrahiportfolio.netlify.app/)
