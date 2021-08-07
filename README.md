@@ -3,7 +3,7 @@
 
 **I'm Abhishek Panigrahi,**
 
-### A Machine Learning,AI and Crypto enthusiast.
+### A Machine Learning, AI and Crypto enthusiast.
 
 
 
