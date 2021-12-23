@@ -3,7 +3,7 @@
 
 **I'm Abhishek Panigrahi,**
 
-### A **Freelancer Data Scientist** and I've worked on complete Data Science Life Cycle from Data Gathering aka Web Scraping to creating **ETL** Pieplines by Cleaning, Preprocessing, Mining Data and performing analysis using **Hadoop MapReduce, Spark, Pandas** and Creating Dashboard using **Grafana, Plotly** to get insights and lastly building **Machine Learning and Deep Learning** Models using **Tensorflow, Keras and Pytorch**.
+A **Freelancer Data Scientist** and I've worked on complete Data Science Life Cycle from Data Gathering aka Web Scraping to creating **ETL** Pieplines by Cleaning, Preprocessing, Mining Data and performing analysis using **Hadoop MapReduce, Spark, Pandas** and Creating Dashboard using **Grafana, Plotly** to get insights and lastly building **Machine Learning and Deep Learning** Models using **Tensorflow, Keras and Pytorch**.
 
 
 
