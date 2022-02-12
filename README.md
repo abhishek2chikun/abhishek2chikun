@@ -20,6 +20,7 @@ A **Freelancer Data Scientist** and I've worked on complete **Data Science Life 
 <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=abhishek2chikun&theme=xcode" /></p>
 </details>
 
+[![Abhisek's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek2chikun&theme=default )](https://github.com/anuraghazra/github-readme-stats)
 
 <details><summary>Trophies</summary>
 <p align="left">
